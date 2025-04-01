@@ -1,8 +1,3 @@
-<!-- Profile picture -->
-<p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/205431643/428998330-0e7a030e-1c44-4e18-a634-970258fc6cdf.JPG?raw=true" alt="Gaya Granot" width="150" style="border-radius: 50%;">
-</p>![P3280186](https://github.com/user-attachments/assets/0e7a030e-1c44-4e18-a634-970258fc6cdf)
-
 
 <h1 align="center">Hi, I'm Gaya</h1>
 
@@ -15,7 +10,7 @@
 ---
 
 
-Welcome to my GitHub! I'm a rotation student in the Life Science Department with a background in Marine Biology and a passion for science!
+Welcome to my GitHub, I'm a rotation student in the Life Science Department with a background in Marine Biology and a passion for science!
 
 ## 🔬 About Me
 
