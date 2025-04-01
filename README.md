@@ -1,6 +1,6 @@
 <!-- Profile picture -->
 <p align="center">
-  <img src="?raw=true" alt="Gaya Granot" width="150" style="border-radius: 50%;">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/205431643/428998330-0e7a030e-1c44-4e18-a634-970258fc6cdf.JPG?raw=true" alt="Gaya Granot" width="150" style="border-radius: 50%;">
 </p>![P3280186](https://github.com/user-attachments/assets/0e7a030e-1c44-4e18-a634-970258fc6cdf)
 
 
