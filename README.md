@@ -1,6 +1,6 @@
 <!-- Profile picture -->
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/205431643/428987283-84dc40b5-e516-43c0-a543-83f6558be4f1.JPG?raw=true" alt="Gaya Granot" width="150" style="border-radius: 50%;">
+  <img src="https://private-user-images.githubusercontent.com/205431643/428987283-84dc40b5-e516-43c0-a543-83f6558be4f1.JPG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDM1MDU4MjYsIm5iZiI6MTc0MzUwNTUyNiwicGF0aCI6Ii8yMDU0MzE2NDMvNDI4OTg3MjgzLTg0ZGM0MGI1LWU1MTYtNDNjMC1hNTQzLTgzZjY1NThiZTRmMS5KUEc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNDAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDQwMVQxMTA1MjZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNDE0OTc4NTU3NzUyY2ZhNWViNjE5YzUzYzc2Y2MxNmIzYTEwMDk5NTc2MDczMjQxZTQ4ZDMwMTAxMmMwMjQyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9._dNK-6yGksEs7548DSVcnOwGPp1AUh5mUDQqalmNpcc?raw=true" alt="Gaya Granot" width="150" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Hi, I'm Gaya</h1>
@@ -13,7 +13,6 @@
 
 ---
 
-# 👋 Hi there, I'm Gaya
 
 Welcome to my GitHub! I'm a rotation student in the Life Science Department with a background in Marine Biology and a passion for science!
 
@@ -31,11 +30,6 @@ Welcome to my GitHub! I'm a rotation student in the Life Science Department with
 - 🏋️ Working out at the Weizmann gym 
 
 
-
-## 📫 Contact
-
-- Email: gaya.granot@weizmann.ac.il
-- 
 
 ---
 
