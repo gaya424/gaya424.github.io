@@ -1,12 +1,9 @@
 <!-- Profile picture -->
 <p align="center">
-  <img src="https://github.com/gaya424/gaya424.github.io/issues/1#issue-2963032062" alt="Your Name" width="150" style="border-radius: 50%;">
+  <img src="https://private-user-images.githubusercontent.com/205431643/428987283-84dc40b5-e516-43c0-a543-83f6558be4f1.JPG?raw=true" alt="Gaya Granot" width="150" style="border-radius: 50%;">
 </p>
 
 <h1 align="center">Hi, I'm Gaya</h1>
-<p align="center">
-  <em>[Your short tagline, e.g.,  Experimental Biologist • Curious Human • Explorer of Molecules]</em>
-</p>
 
 <p align="center">
   <a href="mailto:gaya.granot@weizmann.ac.il"><img src="https://img.icons8.com/ios-filled/25/000000/new-post.png" alt="email icon"/></a>
